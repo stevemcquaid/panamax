@@ -1,5 +1,4 @@
-### EX:
-### bash build.sh n18-smcquaid.dev-godaddy.com wp18-smcquaid.dev-godaddy.com ncd18-smcquaid.dev-godaddy.com rda18-smcquaid.dev-godaddy.com
+### EXAMPLE$: bash build.sh n18-smcquaid.dev-godaddy.com wp18-smcquaid.dev-godaddy.com ncd18-smcquaid.dev-godaddy.com rda18-smcquaid.dev-godaddy.com
 
 HELLOWORLDNODEHOST=$1
 WORDPRESSHOST=$2
