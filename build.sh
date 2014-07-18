@@ -49,4 +49,6 @@ docker build -t stevemcquaid/rails-docker-arbeit .
 docker run -d -P -e VIRTUAL_HOST=$RAILSDOCKERARBEITHOST stevemcquaid/rails-docker-arbeit
 cd ..
 
+
+#The job is complete!
 echo "---- Done! ----"
