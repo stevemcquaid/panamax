@@ -5,7 +5,7 @@ WORDPRESSHOST=$2
 NODECHATDOCKEREXAMPLEHOST=$3
 RAILSDOCKERARBEITHOST=$4
 
-### This will stop all running docker containers. In a future version this will be converted to a zero-downtime deployment
+### This will stop all running docker containers. In a future version this will be converted to a zero-downtime deployment!!
 docker stop $(docker ps -a -q)
 
 ### Run a dockerized nginx reverse proxy which will add a virtual host record each time a new docker image is spun up.
